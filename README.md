@@ -1,11 +1,11 @@
-Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Networks
+**Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network**
 
 **ABSTRACT** 
 
 COVID-19 is a rapidly spreading viral disease that can cause serious lung inflammation and 
 even death. Many studies have shown that chest radiography images are highly suitable for 
 differentiating patients with chronic diseases from those with normal healthy lungs. 
-Chest Xray is used for this project having taken into consideration its wider applicability, driven by 
+Chest X-ray is used for this project having taken into consideration its wider applicability, driven by 
 factors such as the substantially lower cost and far shorter acquisition time, compared to CT 
 scans. With advances in the field of artificial intelligence including Convolutional Neural 
 Networks (CNN), it has become possible to apply sophisticated computer analysis to medical 
@@ -32,3 +32,10 @@ respectively. The paper concludes that the CNN2021 convolutional neural networks
 classification model developed in this project can be a promising deep learning algorithm 
 framework to assist healthcare professionals in classifying COVID-19 chest X-ray images with 
 a highly reliable and accurate prediction output. 
+
+![image](https://user-images.githubusercontent.com/58686831/197237579-52a2d79f-1795-4def-b2d7-7d929696fa6d.png)
+
+![image](https://user-images.githubusercontent.com/58686831/197237655-013d7fa5-b370-4b8f-b343-de2bc24f469a.png)
+
+![image](https://user-images.githubusercontent.com/58686831/197237705-46160023-ecca-4513-80d0-899c9e71d1d2.png)
+
