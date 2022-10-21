@@ -12,6 +12,7 @@ Networks (CNN), it has become possible to apply sophisticated computer analysis 
 images and trials have proven this approach with reassuringly high success rates. 
 
 **Methodology**
+
 This paper proposes to develop a Convolutional Neural Networks to distinguish COVID-19 chest X-ray 
 images. Two distinct CNN models were developed for the binary classification of COVID-19 
 from Normal or Lung opacity cases by examination of their accuracies and errors in order to 
@@ -28,6 +29,8 @@ the COVID-19 cases.
 
 ![image](https://user-images.githubusercontent.com/58686831/197237579-52a2d79f-1795-4def-b2d7-7d929696fa6d.png)
 
+**Result**
+
 Confusion matrices and classification reports metrics were generated to 
 evaluate model performance. In addition, other statistics were calculated for both models to 
 identify the better models because both models showed very good performance. CNN2021 
@@ -43,6 +46,7 @@ respectively.
 ![image](https://user-images.githubusercontent.com/58686831/197241071-9d1503c2-aad6-4202-8f1f-215cbb2bb1a4.png)
 
 **Conclusion**
+
 CNN2021 model was proven to be a better and effective model for this project experiment in a 
 specific and limited data sample (2,500 – 13,000) on the specific binary classifying task 
 (COVID-19 and Normal or Lung opacity) with average accuracy of 97.59 ±1.69%. CNN2021 
