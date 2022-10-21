@@ -39,3 +39,17 @@ a highly reliable and accurate prediction output.
 
 ![image](https://user-images.githubusercontent.com/58686831/197237705-46160023-ecca-4513-80d0-899c9e71d1d2.png)
 
+![image](https://user-images.githubusercontent.com/58686831/197241071-9d1503c2-aad6-4202-8f1f-215cbb2bb1a4.png)
+
+**Conclusion**
+CNN2021 model was proven to be a better and effective model for this project experiment in a 
+specific and limited data sample (2,500 – 13,000) on the specific binary classifying task 
+(COVID-19 and Normal or Lung opacity) with average accuracy of 97.59 ±1.69%. CNN2021 
+also delivered a good Precision, Recall and F1-score, better than TFVGG16 with an average 
+value of 95.63±3.49%, 97.05±2.23% and 96.33±2.71% respectively. 
+
+This project has explored the two deep neural network models with the knowledge and deep 
+learning as well as the application of state-of-the-art transfer learning techniques. It was found 
+that the simple CNN2021 model with lower hidden layers effectively detected the COVID-19 
+chest X-rays images with lower error rates of false predictions compared to the model 
+TFVGG16 which was developed with techniques of transfer learning. 
