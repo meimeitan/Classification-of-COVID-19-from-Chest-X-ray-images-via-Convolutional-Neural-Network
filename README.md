@@ -1,4 +1,4 @@
-<h1>Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network<h1>
+<h1>Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network</h1>
 
 **Introduction**
 
