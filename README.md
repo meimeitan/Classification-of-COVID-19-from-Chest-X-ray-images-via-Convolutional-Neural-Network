@@ -1,4 +1,4 @@
-**Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network**
+Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network
 
 **Introduction**
 
