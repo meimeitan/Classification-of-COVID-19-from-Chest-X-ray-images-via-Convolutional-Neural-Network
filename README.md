@@ -1,5 +1,5 @@
 <h1>Classification of COVID-19 from Chest X-ray images via  Convolutional Neural Network</h1>
-Paper can be founder here: https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4277033
+The Project Write-up is published here: https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4277033
 
 **Introduction**
 
