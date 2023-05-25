@@ -2,6 +2,8 @@
 The Project Write-up is published here: https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4277033
 This is my MSc Project which has helped me develop and fine-tune the skills of machine learning analytics, visualisation, and programming skills. On the technical side, I have experience working with statistical analysis tools, such as Python and R programming language. I used Python to build 2 different neural networks using tensor flow, one model from scratch, the other using state-of-the-art Transfer Learning technique and re-using well proven “industrial strength” image processing components from online code libraries. I compared and contrasted performance of the resulting neural networks for their ability to accurately predict Covid-19 cases (achieving >95% accuracy across >10,000 chest X-ray images), and assessed rates of false positives and negatives. I also discussed other real-world parameters and considerations including time taken to train and run the models. Finally, I made suggestions for future improvements (so the model could be deployed by health professionals to assist accurate diagnosis when laboratory tests are not available, as is so often the case in developing countries)
 
+
+
 **Introduction**
 
 COVID-19 is a rapidly spreading viral disease that can cause serious lung inflammation and 
